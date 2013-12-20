@@ -1,0 +1,8 @@
+# Ignore common
+.DS_STORE
+
+# Ignore composer generated files
+composer.phar
+composer.lock
+composer-test.lock
+vendor/
