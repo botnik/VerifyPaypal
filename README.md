@@ -101,10 +101,6 @@ $ php tests/test.php
 
 This should return "VerifyPaypal was installed correctly!". 
 
-## Contributing
-
-I have no idea what I am doing and so please feel free to contribute, I am always looking to learn.
-
 ## License
 
 VerifyPaypal is licensed under the MIT license. See the LICENSE file for more details.
